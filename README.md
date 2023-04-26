@@ -1,0 +1,2 @@
+# gitty
+git control
